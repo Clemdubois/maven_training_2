@@ -1,4 +1,6 @@
-import api.TestMethod;
+package fr.lernejo.tester;
+
+import fr.lernejo.tester.api.TestMethod;
 
 import java.lang.IllegalStateException;
 
